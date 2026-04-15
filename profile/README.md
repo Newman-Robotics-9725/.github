@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## This is the official Newman Github organization from the years 2024- onward.
+## Here is the link to the old Newman ogranization page with the repositories from previous years (We lost the account)
+## Otherwise the main difference is that starting in 2024 we will be using OnBotJava and Java, whereas in previous years we used android studio and C++
+
 <!--
 
 **Here are some ideas to get you started:**
